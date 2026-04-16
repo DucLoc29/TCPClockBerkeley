@@ -47,7 +47,7 @@ Dự án tập trung vào việc hiện thực hóa thuật toán Berkeley để
     3. Tính độ lệch trung bình toàn hệ thống ($Avg\_Diff$).
     4. Gửi lệnh điều chỉnh (Offset) cho Slaves và Master tự cập nhật chính mình.
 
-## 📐 Logic tính toán (Theo Slide bài giảng)
+## Logic tính toán 
 Hệ thống hiển thị log chi tiết các phép tính:
 - **Độ lệch (Difference):** $D = Slave\_Time - Master\_Time$
 - **Trung bình:** $Avg\_Diff = \frac{\sum D_i}{n}$
