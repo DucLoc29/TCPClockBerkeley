@@ -13,7 +13,7 @@
 * **Nguyễn Văn Hiệu** 
 
 ## Giới thiệu đề tài
-Đồ án tập trung vào việc hiện thực hóa thuật toán Berkeley để đồng bộ hóa đồng hồ của các máy tính trong mạng nội bộ. Hệ thống không tin tưởng tuyệt đối vào bất kỳ máy tính nào (kể cả Master) mà dựa trên sự đồng thuận của tập thể để đưa ra mốc thời gian trung bình chính xác nhất cho toàn mạng.
+Dự án tập trung vào việc hiện thực hóa thuật toán Berkeley để đồng bộ hóa đồng hồ của các máy tính trong mạng nội bộ. Hệ thống không tin tưởng tuyệt đối vào bất kỳ máy tính nào (kể cả Master) mà dựa trên sự đồng thuận của tập thể để đưa ra mốc thời gian trung bình chính xác nhất cho toàn mạng.
 
 ## Tính năng nổi bật
 * **Giao diện đồ họa (GUI):** Xây dựng bằng `Tkinter` trực quan, hiển thị nhật ký tính toán chi tiết.
