@@ -31,12 +31,12 @@ Dự án tập trung vào việc hiện thực hóa thuật toán Berkeley để
 
 ### 1. Khởi động Máy chủ (Master)
 1. Mở Terminal (CMD/PowerShell) bằng quyền **Run as Administrator**.
-2. Chạy lệnh: `python server_gui.py`.
+2. Chạy lệnh: `python server.py`.
 3. Nhấn nút **"Bắt đầu Server"**.
 
 ### 2. Khởi động Máy khách (Slaves)
 1. Mở Terminal bằng quyền **Run as Administrator** trên các máy cần đồng bộ.
-2. Chạy lệnh: `python client_gui.py`.
+2. Chạy lệnh: `python client.py`.
 3. Nhập địa chỉ **IP của Master** vào ô nhập liệu và nhấn **"Kết nối"**.
 
 ### 3. Quy trình đồng bộ
